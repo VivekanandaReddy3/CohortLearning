@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1a3dc03038cef36b",
+        "id": "809b6a6450709f7a",
         "type": "tabs",
         "children": [
           {
-            "id": "90311ab4fb6c9759",
+            "id": "e68c8861d7d16f66",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b9f216e2dc6a8f76",
@@ -146,10 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90311ab4fb6c9759",
+  "active": "e68c8861d7d16f66",
   "lastOpenFiles": [
-    "Week 0.md",
+    "Untitled.md",
     "Week 2.md",
+    "Week 0.md",
     "The Goal.md"
   ]
 }

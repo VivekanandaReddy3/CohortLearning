@@ -19,3 +19,23 @@
 We actually have a status code for every communication like post and get uk.
 
 
+
+# Week 2.3 
+
+
+
+| Bash Command | Windows Equivalent |
+|--------------|--------------------|
+| `pwd`        | `cd` (without arguments) |
+| `cd`         | `cd` |
+| `ls`         | `dir` or `ls` (if using PowerShell) |
+| `mkdir`      | `mkdir` |
+| `touch`      | `echo. > filename` or `type nul > filename` |
+| `cat`        | `type` |
+| `vi`         | `notepad` or `code` (if Visual Studio Code is installed and in the PATH) |
+| `mv`         | `move` |
+| `cp`         | `copy` |
+| `nvm`        | Not applicable (Node Version Manager is not native to Windows; consider using nvm-windows or nodist) |
+| `npm`        | `npm` |
+| `node`       | `node` |
+

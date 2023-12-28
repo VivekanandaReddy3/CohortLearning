@@ -1,92 +1,70 @@
 body {
-    background-color: #343541;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #343541;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .nav {
-    display: flex;
-
+  display: flex;
 }
+
 
 .iconbody {
-    width: 35px;
-    height: 35px;
-    background-color: #4e4d5b;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border: 0.1px solid #d0d0d0;
-    border-radius: 8px;
-    cursor: pointer;
-    margin-left: 10px;
-    margin-right: 18px;
+  width: 35px;
+  height: 35px;
+  background-color: #343541;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 0 0 0.5px white;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-left: 10px;
+  margin-right: 18px;
 }
-.iconbody:hover{
-    background-color: #727085;
-}
-
-
-.icon{
-    padding-top: 3px;
+.iconbody:hover {
+  background-color: #727085;
 }
 
-.navnamecontainer{
-    border: 0.1px ;
-    border-radius: 20px;
+.icon {
+  padding-top: 3px;
 }
 
-.navnamecontainer:hover{
-    background-color: #313036;
+.navnamecontainer {
+  border: 0.1px;
+  border-radius: 20px;
+}
+
+.navnamecontainer:hover {
+  background-color: #313036;
 }
 
 .navname {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: rgb(255, 255, 255);
-    font-weight: 600;
-    font-size: large;
-    padding-top: 5px;
-    cursor: pointer;
-    padding-left: 10px;
-    padding-right: 10px;
-    
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(255, 255, 255);
+  font-weight: 600;
+  font-size: large;
+  padding-top: 5px;
+  cursor: pointer;
+  padding-left: 10px;
+  padding-right: 10px;
 }
-.navname:hover{
-    color: rgb(195, 190, 190);
-}
-
-.centerbar{
-    padding-top: 130px;
-    display: flex;
-    justify-content: center;
+.navname:hover {
+  color: rgb(195, 190, 190);
 }
 
-.chatgptimage{
-
-    border-radius: 50%;
+.centerbar {
+  padding-top: 130px;
+  display: flex;
+  justify-content: center;
 }
 
-.centerheading{
-    display: flex;
-    justify-content: center;
-    color: white;
-    font-weight: 50;
+.chatgptimage {
+  border-radius: 50%;
 }
 
-.rec-box1{
-    display: flex;
-    justify-content: center;
-}
-
-.box1{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    box-shadow: 0 0 0 0.5px white;
-}
-.sentence1{
-    margin-top: 2px;
-}
-.sentence{
-    margin-top: -10px;
+.centerheading {
+  display: flex;
+  justify-content: center;
+  color: white;
+  font-weight: 50;
 }
