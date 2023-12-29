@@ -39,3 +39,15 @@ We actually have a status code for every communication like post and get uk.
 | `npm`        | `npm` |
 | `node`       | `node` |
 
+# Week 2.5
+
+>> We expose our doctor (CODE) to the Hospital(SERVER) by using Express
+>> It is just a way to create a http server 
+
+
+We use  express by
+```
+const express = require("express")
+
+const app = express();
+```
